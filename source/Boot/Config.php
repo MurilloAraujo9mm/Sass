@@ -10,8 +10,8 @@ define("CONF_DB_NAME", "`heroku_ce295fe3e659e7a`");
 /**
  * PROJECT URLs
  */
-define("CONF_URL_BASE", "http://localhost/cafecontroll");
-define("CONF_URL_TEST", "http://localhost/cafecontroll");
+define("CONF_URL_BASE", "https://titan-software.herokuapp.com");
+define("CONF_URL_TEST", "https://titan-software.herokuapp.com");
 
 /**
  * SITE
