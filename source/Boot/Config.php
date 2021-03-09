@@ -5,7 +5,7 @@
 define("CONF_DB_HOST", "us-cdbr-east-02.cleardb.com");
 define("CONF_DB_USER", "b205eef55ed4a2");
 define("CONF_DB_PASS", "d225e3b4");
-define("CONF_DB_NAME", "`heroku_ce295fe3e659e7a`");
+define("CONF_DB_NAME", "heroku_ce295fe3e659e7a");
 
 /**
  * PROJECT URLs
