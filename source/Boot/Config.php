@@ -2,9 +2,9 @@
 /**
  * DATABASE
  */
-define("CONF_DB_HOST", "us-cdbr-east-02.cleardb.com");
-define("CONF_DB_USER", "b205eef55ed4a2");
-define("CONF_DB_PASS", "d225e3b4");
+define("CONF_DB_HOST", "us-cdbr-east-03.cleardb.com");
+define("CONF_DB_USER", "bd0a9add2e9bd6");
+define("CONF_DB_PASS", "1590c528");
 define("CONF_DB_NAME", "heroku_ce295fe3e659e7a");
 
 /**
